@@ -1,1 +1,1 @@
-Built using React, Gatsy, and SCSS. 
+Built using React, Gatsby, and SCSS. 
